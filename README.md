@@ -9,7 +9,7 @@ and run its cells in order.
 | 3 | [Chapter 3](code/CH03_Fartale_GPU_Programming_with_Triton.ipynb) |
 | 4 | [Chapter 4](code/CH04_Fartale_GPU_Programming_with_Triton.ipynb) |
 | 5 | [Chapter 5](code/CH05_Fartale_GPU_Programming_with_Triton.ipynb) |
-| 6 | [Advanced matrix multiplication](code/CH06_Fartale_GPU_Programming_with_Triton.ipynb) |
+| 6 | [Chapter 6](code/CH06_Fartale_GPU_Programming_with_Triton.ipynb) |
 | 8 | [Chapter 8](code/CH08_Fartale_GPU_Programming_with_Triton.ipynb) |
 
 ## Set up your environment
